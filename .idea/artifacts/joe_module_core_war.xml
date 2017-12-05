@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="joe-module-core:war">
+    <output-path>$PROJECT_DIR$/joe-module-core/target</output-path>
+    <root id="archive" name="joe-module-core.war">
+      <element id="artifact" artifact-name="joe-module-core:war exploded" />
+    </root>
+  </artifact>
+</component>
